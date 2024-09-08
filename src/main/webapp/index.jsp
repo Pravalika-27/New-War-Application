@@ -6,16 +6,16 @@
 <h2 style="font-weight: bold; color: Black; font-size: 30px; text-align: center;">
      Welcome to Jenkins End-to-End Project.
 </h2>
-<h1 style="font-weight: bold; color: pink; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: dark pink; font-size: 30px; text-align: center;">
     Jenkins setup is done.
 </h1>
-<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: navy blue; font-size: 30px; text-align: center;">
     Tomcat setup is Done.
 </h1>
-<h1 style="font-weight: bold; color: burgundy; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     Nexus setup is done.
 </h1>
-<h1 style="font-weight: bold; color: brown; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: teal; font-size: 30px; text-align: center;">
     SonarQube setup is done.
 </h1>
 <h1 style="font-weight: bold; color: maroon; font-size: 30px; text-align: center;">
