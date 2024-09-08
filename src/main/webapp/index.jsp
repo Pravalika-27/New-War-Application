@@ -7,7 +7,7 @@
      Welcome to Jenkins End-to-End Project.
 </h2>
 <h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
-    I am SRI LAKSHMI.
+    I am BHARGAVI.
 </h1>
 <h1 style="font-weight: bold; color: orange; font-size: 30px; text-align: center;">
     Jenkins setup is done.
