@@ -1,19 +1,19 @@
 <html>
 <head>
-<title>Welcome to Deployment Day</title>
+<title>Welcome to Jenkins End-to-End Project</title>
 </head>
 <body>
 <h2 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-     Hi Everyone, Welcome to DevOps Class
+     This is SPANDANA
 </h2>
-<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-    Welcome to DevOps Deployment using Jenkins
+<h1 style="font-weight: bold; color: Orange; font-size: 30px; text-align: center;">
+    Nexus setup is Done.
 </h1>
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
-    We have done Deployment using Jenkins FreeStyle Job
+    Checking Automation Through Webhooks
 </h1>
-<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
-    Automation is Working through Webhooks
+<h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
+    Successfully Completed Jenkins End-to-End Deployment Project :)
 </h1>
 </body>
 </html>
