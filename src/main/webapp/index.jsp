@@ -15,7 +15,7 @@
 <h1 style="font-weight: bold; color: black; font-size: 30px; text-align: center;">
     Tomcat setup is Done.
 </h1>
-<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     Nexus setup is done.
 </h1>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
@@ -24,7 +24,7 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Checking Automation Through poll SCM.
 </h1>
-<h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
+<h1 style="font-weight: bold; color: green; font-size: 30px; text-align: center;">
     Successfully Completed Jenkins End-to-End Project
 </h1>
 </body>
