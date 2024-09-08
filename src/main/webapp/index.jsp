@@ -7,7 +7,7 @@
      Welcome to Jenkins End-to-End Project.
 </h2>
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
-    I am SPANDANA
+    I am PRAVALIKA.
 </h1>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
     Jenkins setup is done.
@@ -25,7 +25,7 @@
     Checking Automation Through poll SCM.
 </h1>
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
-    Successfully Completed Jenkins End-to-End Project :)
+    Successfully Completed Jenkins End-to-End Project
 </h1>
 </body>
 </html>
