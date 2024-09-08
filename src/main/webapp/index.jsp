@@ -3,7 +3,7 @@
 <title>Welcome to Deployment Day</title>
 </head>
 <body>
-<h2 style="font-weight: bold; color: red; font-size: 30px; text-align: center;
+<h2 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
      Hi Everyone, Welcome to DevOps Class
 </h2>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
